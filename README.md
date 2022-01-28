@@ -1,5 +1,5 @@
 <p align="center">
-<img height="350" src="https://c.tenor.com/727qo8TxQjcAAAAd/jujutsu-kaisen-gojo-satoru.gif" alt="my banner" />
+<img height="240" src="https://c.tenor.com/727qo8TxQjcAAAAd/jujutsu-kaisen-gojo-satoru.gif" alt="my banner" />
 </p>
 
 ## About me:
