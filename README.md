@@ -1,26 +1,31 @@
-### Hi there 👋
-
-<!--
-**adityakp15/adityakp15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityakp15&theme=github_dark)](https://github.com/adityakp15/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakp15&layout=compact&theme=github_dark)](https://github.com/adityakp15/) 
-
-### Check out my Stats !
-
-<p align="left">
-<img height="207em" src="https://github-readme-stats-taupe-pi.vercel.app/api?username=adityakp15&theme=github_dark&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&role=OWNER,COLLABORATOR" align = "center"/>
-<img height="207em" src="https://github-readme-stats-taupe-pi.vercel.app/api/top-langs/?username=adityakp15&theme=github_dark&layout=compact&langs_count=10&hide_border=1&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR" align = "center"/>
+<p align="center">
+<img height="350" src="https://user-images.githubusercontent.com/45899028/145592132-24590f89-aa54-4aa3-9337-4c54d1379674.gif" alt="my banner" />
 </p>
+
+## About me:
+![Views](https://komarev.com/ghpvc/?username=adityakp15&color=blueviolet&label=Profile+Views)
+<br>
+<!-- I'm a student who really likes to explore different things to do in computer science. I checked out a bit of machine learning, a **lot** of web development and now I'm interested in [contributing to open-source projects](https://github.com/HabitRPG/habitica/pull/13655). I'm currently learning Minecraft modding as a hobby.  -->
+Hi
+
+### Contact me -
+<a href="https://www.linkedin.com/in/adityakp15/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:aditponnu@gmail.com"><img src="https://img.shields.io/badge/-Mail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"></a>
+
+### Technical skills -
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Check out my stats!
+<div>
+  <a href="https://github.com/adityakp15">
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityakp15&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityakp15&layout=compact&langs_count=8&theme=github_dark"/>
+  </a>
+</div>
