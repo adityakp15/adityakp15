@@ -3,7 +3,7 @@
 </p>
 
 ## About me:
-![Views](https://komarev.com/ghpvc/?username=adityakp15&color=blueblackt&label=Profile+Views)
+![Views](https://komarev.com/ghpvc/?username=adityakp15&color=blueblack&label=Profile+Views)
 <br>
 <!-- I'm a student who really likes to explore different things to do in computer science. I checked out a bit of machine learning, a **lot** of web development and now I'm interested in [contributing to open-source projects](https://github.com/HabitRPG/habitica/pull/13655). I'm currently learning Minecraft modding as a hobby.  -->
 Hi
