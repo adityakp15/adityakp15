@@ -2,17 +2,17 @@
 <img height="240" width = "1000" src="https://c.tenor.com/727qo8TxQjcAAAAd/jujutsu-kaisen-gojo-satoru.gif" alt="my banner" />
 </p>
 
-## About me:
+## About me :
 Hi there ! I am Aditya Krishna P and I'm a final year student pursuing Computer Science at SSN College of Engineering. I am currently into Web and App Development as well as Blockchain and I've worked on a few interesting projects using Python.
 <br>
 <br>
 ![Views](https://komarev.com/ghpvc/?username=adityakp15&color=blue&label=Profile+Views)
 
-### Contact me -
+### Contact me :
 <a href="https://www.linkedin.com/in/adityakp15/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/adityakp15/"></a>
 <a href="mailto:aditponnu@gmail.com"><img src="https://img.shields.io/badge/-Mail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="aditponnu@gmail.com"></a>
 
-### Technical skills -
+### Technical skills :
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-c++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
