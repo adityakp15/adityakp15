@@ -8,7 +8,7 @@
 I'm a final year student pursuing Computer Science at SSN College of Engineering. I am currently into Web and App Development as well as Blockchain and I've worked on a few interesting projects using Python.
 
 ### Contact me -
-<a href="https://www.linkedin.com/in/adityakp15/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/adityakp15/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/adityakp15/"></a>
 <a href="mailto:aditponnu@gmail.com"><img src="https://img.shields.io/badge/-Mail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="aditponnu@gmail.com"></a>
 
 ### Technical skills -
