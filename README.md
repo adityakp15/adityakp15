@@ -20,7 +20,7 @@ Hi there ! I am Aditya Krishna P and I'm a final year student pursuing Computer 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Check out my stats!
+## Check out my stats !
 <div>
   <a href="https://github.com/adityakp15">
     <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityakp15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
