@@ -1,5 +1,5 @@
 <p align="center">
-<img height="350" src="https://user-images.githubusercontent.com/45899028/145592132-24590f89-aa54-4aa3-9337-4c54d1379674.gif" alt="my banner" />
+<img height="350" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F658299670530766077%2F&psig=AOvVaw2pyQFZoiIsJCkfQgDe90pD&ust=1643491437628000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCErO2w1fUCFQAAAAAdAAAAABAD" alt="my banner" />
 </p>
 
 ## About me:
