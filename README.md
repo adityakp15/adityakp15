@@ -9,7 +9,7 @@ I'm a final year student pursuing Computer Science at SSN College of Engineering
 
 ### Contact me -
 <a href="https://www.linkedin.com/in/adityakp15/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:aditponnu@gmail.com"><img src="https://img.shields.io/badge/-Mail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"></a>
+<a href="mailto:aditponnu@gmail.com"><img src="https://img.shields.io/badge/-Mail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="aditponnu@gmail.com"></a>
 
 ### Technical skills -
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
