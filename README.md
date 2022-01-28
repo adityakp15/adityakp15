@@ -6,6 +6,7 @@
 Hi there !
 I am Aditya Krishna P and I'm a final year student pursuing Computer Science at SSN College of Engineering. I am currently into Web and App Development as well as Blockchain and I've worked on a few interesting projects using Python.
 <br>
+<br>
 ![Views](https://komarev.com/ghpvc/?username=adityakp15&color=blue&label=Profile+Views)
 
 ### Contact me -
