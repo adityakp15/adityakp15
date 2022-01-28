@@ -25,7 +25,7 @@ Hi
 ## Check out my stats!
 <div>
   <a href="https://github.com/adityakp15">
-    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityakp15&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityakp15&layout=compact&langs_count=8&theme=github_dark"/>
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityakp15&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityakp15&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </div>
