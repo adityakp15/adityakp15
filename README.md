@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityakp15&theme=github_dark)](https://github.com/adityakp15/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakp15&layout=compact&theme=github_dark)](https://github.com/adityakp15/)
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityakp15count_private=true&show_icons=true" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakp15&show_icons=true&locale=en&layout=compact" align = "center"/>
+</p>
