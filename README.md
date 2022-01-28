@@ -26,6 +26,6 @@ Hi
 <div>
   <a href="https://github.com/adityakp15">
     <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityakp15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityakp15&layout=compact&langs_count=8&theme=dark"/>
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityakp15&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
 </div>
