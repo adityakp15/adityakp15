@@ -5,8 +5,7 @@
 ## About me:
 ![Views](https://komarev.com/ghpvc/?username=adityakp15&color=blue&label=Profile+Views)
 <br>
-<!-- I'm a student who really likes to explore different things to do in computer science. I checked out a bit of machine learning, a **lot** of web development and now I'm interested in [contributing to open-source projects](https://github.com/HabitRPG/habitica/pull/13655). I'm currently learning Minecraft modding as a hobby.  -->
-Hi
+I'm a final year student pursuing Computer Science at SSN College of Engineering. I am currently into Web and App Development as well as Blockchain and I've worked on a few interesting projects using Python.
 
 ### Contact me -
 <a href="https://www.linkedin.com/in/adityakp15/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
